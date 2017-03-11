@@ -1,0 +1,22 @@
+body,html {
+  font-family: 'Fjalla One', sans-serif;
+  height: 100%;
+}
+#sideBar {
+  background-color: red;
+  padding: 10px;
+}
+#primary {
+  height: inherit;
+  position: absolute;
+}
+#main {
+  padding: 10px;
+}
+.yellowText {
+  font-size: 24px;
+  color: yellow;
+}
+.whiteText {
+  color: white;
+}
